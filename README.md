@@ -1,2 +1,2 @@
 # gitgoodcommits
-Git commit message generator
+Git commit message generator :construction:
