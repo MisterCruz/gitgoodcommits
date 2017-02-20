@@ -10,7 +10,7 @@ App.run(function() {
 	commitList = ['e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e', 'e'];
 
 	hello = new Text({
-	  text: quoteList[Math.floor(Math.random() * 14)],
+	  text: commitList[Math.floor(Math.random() * 14)],
 	  width: auto,
 	  fontSize: 30,
 	  fontWeight: 700,
